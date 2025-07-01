@@ -11,10 +11,10 @@
 
 </br>
 <section>
-  <a href="https://github.com/FelipeFama">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeFama&&show_icons=true&theme=radical&include_all_commits=true"/>
+  <a href="https://github.com/lipehfama">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipehfama&&show_icons=true&theme=radical&include_all_commits=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehfama&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </section>  
   
