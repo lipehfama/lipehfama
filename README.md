@@ -33,7 +33,7 @@
   
   <img align="center" height="25" width="105" alt="Felipe-Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
-  <img align="center" height="21" width="100" alt="Felipe-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" height="21" width="75" alt="Felipe-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   
   <img align="center" height="25" width="145" alt="Felipe-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   
